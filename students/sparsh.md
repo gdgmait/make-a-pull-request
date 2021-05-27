@@ -1,3 +1,3 @@
 Sparsh Bhardwaj
-2rd Year, BCA
+2nd Year, BCA
 C, Python, HTML, CSS
