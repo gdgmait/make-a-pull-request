@@ -1,5 +1,5 @@
-# [Your Name]
+# [Bakhtawer Nisar]
 
-## [Your Year and Stream]
+## [IT Student]
 
-## [Add the languages/frameworks you work on comma separated]
+## [I work on Python]
