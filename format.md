@@ -1,5 +1,5 @@
-# [Your Name]
+# [Marcel]
 
-## [Your Year and Stream]
+## [3rd year]
 
-## [Add the languages/frameworks you work on comma separated]
+## [JS, Html, Css, Scss, TS]
