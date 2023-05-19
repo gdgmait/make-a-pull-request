@@ -2,4 +2,4 @@
 
 ## 3rd Year, IT
 
-## JavaScript, Java, React.Js
+## JavaScript, Java, C
